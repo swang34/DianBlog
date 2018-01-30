@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my page! (Under construction)
 
-You can use the [editor on GitHub](https://github.com/swang34/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Finally I decide to set up a website myself after getting a lot of help from other amazing blogs. This will be a place of sharing the fun of statistics, machine learning and some explanatory website building experience. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Chinese blog is [Here](http://devotiondian.tumblr.com/) to share life thoughts and random literatures. 
 
 ### Markdown
 
