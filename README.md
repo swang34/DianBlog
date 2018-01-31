@@ -4,10 +4,9 @@ Finally I decide to set up a website myself after getting a lot of help from oth
 
 My Chinese blog is [Here](http://devotiondian.tumblr.com/) to share life thoughts and random literatures. 
 
-### Markdown
+### Bitcoin Price Forecast using ARIMA, conditional forecasting and LSTM methods
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This project is insipred by my friends who are quite keen on Bitcoin investing. Not everyone is as lucky as 50 cents Bitcoin experienced an insanely growth since October 2017 and yet the lrgest drop in Dec 2018. The aim of the project is to explore the possibility of accuraly forecasting Bitcoin price and compare different methods from traditional time series methods like ARIMA to the hottest neural network family. The working repository on Github is [Here](https://github.com/swang34/DianBlog). 
 ```markdown
 Syntax highlighted code block
 
